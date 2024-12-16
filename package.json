@@ -1,5 +1,5 @@
 {
-    "homepage": "https://yourusername.github.io/pocus-report-app",
+    "homepage": "https://nachkontrolle.github.io/pocus-report-app",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
